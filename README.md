@@ -1,16 +1,15 @@
-## Hi there 👋
+## remipch
 
-<!--
-**remipch/remipch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software and robotics R&D engineer, tech enthusiast, mountain hiker.
 
-Here are some ideas to get you started:
+Please visit my website for more information:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[About me](https://remipch.github.io/)
+
+[Software](https://remipch.github.io/software.html)
+
+[Robotics](https://remipch.github.io/robotics.html)
+
+[Electronics](https://remipch.github.io/electronics.html)
+
+[Solar concentrator](https://remipch.github.io/solar.html)
